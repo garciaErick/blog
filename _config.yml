@@ -44,7 +44,6 @@ minima:
 # - about.md
 
 # Build settings
-theme: minima
 
 plugins:
  - jekyll-org
