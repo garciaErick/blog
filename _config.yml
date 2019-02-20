@@ -47,5 +47,3 @@ minima:
 
 plugins:
  - jekyll-org
- - jekyll-feed
- - jekyll-seo-tag
