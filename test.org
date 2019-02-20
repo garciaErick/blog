@@ -1,8 +1,0 @@
-* Welcome to Org mode
-
-  Lines starting with * are headings.
-  These lines without are notes.
-
-** Sub-heading
-
-   Two stars mark a 2nd-level subheading (h2).
