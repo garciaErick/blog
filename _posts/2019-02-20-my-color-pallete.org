@@ -154,3 +154,12 @@ I finally bought some hosting and decided I could use this space for whatever th
   unset color_foreground
   unset color_background
 #+END_SRC
+
+#+BEGIN_SRC ruby
+  require 'rubygems'
+  require 'org-ruby'
+  data = IO.read(filename)
+  puts Orgmode::Parser.new(data).to_html
+#+END_SRC
+
+what
