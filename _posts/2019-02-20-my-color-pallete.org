@@ -8,7 +8,7 @@ I finally bought some hosting and decided I could use this space for whatever th
 #+CAPTION: SS of Hex Material Palenight Colors
 [[file:/assets/img/colors.png]]
 
-Click [[/assets/lol.png][here]] to get the see the code snippet!
+Click [[https://github.com/garciaErick/dotfiles/blob/master/colors/colors.css][here]] to get the see the code snippet!
 
 #+BEGIN_SRC css
   colors {
