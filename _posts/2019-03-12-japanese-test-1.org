@@ -4,15 +4,21 @@
 
 * 復習(ふくしゅう)
 Pg. 53 (PDF pg. 63)
-1.	Vないで。Casual Conversation – Prohibition 「禁止(きんし)」
+** 1. Vないで。Casual Conversation – Prohibition 「禁止(きんし)」
 a.	あした持ってくるのを忘れないでね。
 
-2.	V「辞書(じしょ)」な。Jisho Verb + な – Strong Prohibition
-例：走るな…　吸うな…
+** 2. V「辞書(じしょ)」な。Jisho Verb + な – Strong Prohibition
+例：
+- 走るな　
+- 吸うな…
 
-3.	V「Causative」ていただけないでしょうか。Very polite form of asking permission to do something. Do not confuse with Vていただけないでしょうか, in which you are asking someone to do something. 
+** 3. V「Causative」ていただけないでしょうか。Very polite form of asking permission to do something. Do not confuse with Vていただけないでしょうか, in which you are asking someone to do something. 
+- 前の日に試験を受けさせていただけないでしょうか。
++ Would you please let me take the exam one day early
+- これを持っていただけなでしょうか？
++ Could you please take this?
 
-4.	～ば～ほど＝“The more/less ～, the more/less ～”　How to conjugate ～ば：
+** 4. ～ば～ほど＝“The more/less ～, the more/less ～”　How to conjugate ～ば：
 a.	～い→ければ
 b.	～な→であれば
 c.	名詞→であれば
@@ -23,49 +29,62 @@ iii.	る→れば
 e.	する→すれば
 f.	くる→くれば
 例：食べれば食べるほど太ります。←Note that verbs must be “repeated,” VばVほど
++ The more you eat, the fatter you will get
 例：日本語は勉強しなければしないほど分からなくなります。
+The less you study japanese the less you will understand it
 例：いいレストランであればあるほど高い。
+The more expensive a restaurant is the better
 
 
-5.	N以外(いがい)の／以外に＝ “other than～; besides～”
-a.	学期の始めは、教科書以外にいろいろ買うものがある。
+** 5. N以外(いがい)の／以外に＝ “other than～ (not so similar things); besides～ (similar things)”
+a.	学期の初め、教科書以外にいろいろ買うものがある。
 At the beginning of the semester, there are many other things to buy besides textbooks.
 b.	文部科学省以外の奨学金もあります。
 There are many other scholarships than that from the Ministry of MEXT.
 
-6.	必(かなら)ずしも～というわけではない＝”it does not necessarily mean that…”
+** 6. 必(かなら)ずしも～というわけではない＝”it does not necessarily mean that…”
+- 必ずしも日本へ行ければ日本語が上手になるというわけではありません
+    + It is not necessarily the case that your japanese improves once you go to japan 
 
-7.	Nばかり＝”Nothing but～”
+** 7. Nばかり＝”Nothing but～” 
+Expresses the idea that there is so much X that only X exists
+- テレビのニュースはいやなニュースばかりで、いやなる
+- テレビを見てばかりいうと勉強できません
+    + If you watch TV all the time you can't study
 
-8.	なるべく＝”as ～ as possible”
-a.	宿題は、なるべき次の日に出してください。
-Please hand in homework the next day if possible.
+** 8. なるべく＝”as ～ as possible”
+- 宿題は、なるべく次の日に出してください
+    + Please hand in homework the next day if possible.
+- 教室の外で、なるべく日本語を使った方がいいでしょう
+    + It would be better if you could speak japanese as much as possible outside the classroom
 
-9.	V (plain) べき＝”should; ought to”
-a.	悪い友達の意見(いけん)は聞くべきではない。
-One should not listen to the opinions of bad friends.
+** 9. V (plain) べき＝”should; ought to”
+- 他の人の意見も聞くべきだ
+    + One should listen to the opinions of others
+_ 悪い友達の意見(いけん)は聞くべきではない。
+    + One should not listen to the opinions of bad friends.
 
-Pg. 71 (PDF pg. 81)
-1.　別(べつ)に（～ない）＝”Not particularly”
+* Pg. 71 (PDF pg. 81)
+** 1. 別(べつ)に（～ない）＝”Not particularly”
 a.	先生：日本語のクラスは、どう。難(むずか)しい？
 学生：ううん、別に。
 
-2.	～かな (To wonder)
+** 2. ～かな (To wonder)
 a.	日本の人口はどうぐらいかな。
 What is the population of Japan, I wonder.
 
-3.	 たしか＝ “If I remember correctly” / たしかに＝ “Certainly”
+** 3. たしか＝ “If I remember correctly” / たしかに＝ “Certainly”
 a.	日本の人口は、たしか一億に千万ぐらいでしょう。
 If I’m not mistaken, Japan’s population is about 120,000,000.
 
-4.	 XはYで有名(ゆうめい)だ＝ “X is famous for Y”
+** 4. XはYで有名(ゆうめい)だ＝ “X is famous for Y”
 a.	ミルウォーキーは、ビールで有名です。
 
-5.	 Nにする＝ “To decide on N; to have/take N”
+** 5. Nにする＝ “To decide on N; to have/take N”
 a.	私は、すきやきにします。
 I will have sukiyaki.
 
-6.	 ～ようだ＝ “It seems that; it looks like ～” / Nのように＝ “like; as if it were”
+** 6. ～ようだ＝ “It seems that; it looks like ～” / Nのように＝ “like; as if it were”
 a.	日本人は仕事(しごと)が好きのようです。
 Japanese seem to like work.
 b.	「X のようなY」＝ X looks/behaves like Y.
@@ -74,27 +93,27 @@ Mr. Tanaka looks like a woman.
 c.	赤ちゃんは、ペンギンのように歩きます。
 Babies walk like penguins. 
 
-7.	 さえ＝ “Even”
+** 7. さえ＝ “Even”
 a.	時々夏は暑くて、眠れないことさえあります。
 
-8.	 いつのまにか＝ “before one knows it; before one realizes”
+** 8. いつのまにか＝ “before one knows it; before one realizes”
 a.	お金はいつのまにかなくなってしまいます。
 Money Is gone before you know it.
 
-9.	 になれる＝ “Be used to; be accustomed to” (Follows a noun or a sentence followed by の).
+** 9. になれる＝ “Be used to; be accustomed to” (Follows a noun or a sentence followed by の).
 a.	日本の生活になれてきました。
 I have become used to the Japanese way of life. 
 b.	タトゥーの痛みになれた。
 I got used to tattoo pain.
 
-10.	 V ないで済(す)む
+** 10. V ないで済(す)む
 a.	勉強しないで済んで、卒業します。
 
-11.	 ～ずつ＝ “each; at a time”
+** 11. ～ずつ＝ “each; at a time”
 a.	私は毎日漢字を五つずつ覚えることにしています。
 I memorize five kanji every day. 
 b.	一人一枚ずつ取ってください。
 Please take one sheet each.
 
-12.	 以(い)上(うえ)＝ “more than”
+** 12. 以(い)上(うえ)＝ “more than”
 a.	一奥さんがあるは悪いです。
