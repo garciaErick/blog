@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jekyll Tags on Github Pages
+title: My color pallete
 description: blablabla
 tags: color material palenight "material palenight"
 ---
