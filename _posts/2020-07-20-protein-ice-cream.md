@@ -6,60 +6,45 @@ author: Greg Doucette
 tags: recipes
 ---
 
-This recipe is made by [@Greg Doucette](https://www.gregdoucette.com)
+This recipe is made by [@Greg Doucette](https://www.gregdoucette.com) and since he has this information public in this [video](https://www.youtube.com/watch?v=q-m_6M6nUd8) so I took the liberty of listing the ingredients for my convenience and the general public. Consider buying his cookbook, there are lots of great substitutes and cooking ideas!
 
-```html
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "Recipe",
-  "author": "John Smith",
-  "cookTime": "PT1H",
-  "datePublished": "2009-05-08",
-  "description": "This classic banana bread recipe comes from my mom -- the walnuts add a nice texture and flavor to the banana bread.",
-  "image": "bananabread.jpg",
-  "recipeIngredient": [
-    "3 or 4 ripe bananas, smashed",
-    "1 egg",
-    "3/4 cup of sugar"
-  ],
-}
-</script>
-```
+## Ingredients
+* 1.5 scooops of protein
+* 105g of frozen fruit (low carb berries)
+* 1tbsp of PB2 peanut butter powder
+* 1/2 tsp of xantham gum
+* 1/3 cup of almond milk
 
-| ![image](/assets/img/image.png) | 
-|:--:| 
-| *Rich text validator screenshot from Google* |
+## Instructions
+1. Place everything into blender and continuously blend until thickened and does not spill when flipping the blender
+2. Continuously blend until thickened and does not spill when flipping the blender
+  * May need to use spatula to remove mix from blender surface and continue blending
+  
+## Nutritional information
+* 360 calories (If you can finish it :P)
 
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
   "@type": "Recipe",
-  "author": "John Smith",
-  "cookTime": "PT1H",
-  "datePublished": "2009-05-08",
-  "description": "This classic banana bread recipe comes from my mom -- the walnuts add a nice texture and flavor to the banana bread.",
-  "image": "bananabread.jpg",
+  "author": "Greg Doucette",
+  "cookTime": "PT15M",
+  "description": "Anabolic protein ice cream",
   "recipeIngredient": [
-    "3 or 4 ripe bananas, smashed",
-    "1 egg",
-    "3/4 cup of sugar"
+    "1.5 scooops of protein",
+    "105g of frozen fruit (low carb berries)",
+    "1tbsp of PB2 peanut butter powder",
+    "1/2 tsp of xantham gum",
+    "1/3 cup of almond milk"
   ],
-  "interactionStatistic": {
-    "@type": "InteractionCounter",
-    "interactionType": "http://schema.org/Comment",
-    "userInteractionCount": "140"
-  },
-  "name": "Mom's World Famous Banana Bread",
+  "name": "Anabolic protein ice cream",
   "nutrition": {
     "@type": "NutritionInformation",
-    "calories": "240 calories",
-    "fatContent": "9 grams fat"
+    "calories": "360 calories",
   },
   "prepTime": "PT15M",
-  "recipeInstructions": "Preheat the oven to 350 degrees. Mix in the ingredients in a bowl. Add the flour last. Pour the mixture into a loaf pan and bake for one hour.",
-  "recipeYield": "1 loaf",
-  "suitableForDiet": "http://schema.org/LowFatDiet"
+  "recipeInstructions": "Place everything into blender and continuously blend until thickened and does not spill when flipping the blender",
+  "recipeYield": "1 serving"
 }
 </script>
 
