@@ -19,7 +19,7 @@
 
         <div class="trigger">
 		<a class="page-link" rel="author" href="https://erick-garcia.com">Home</a>
-		<a class="page-link" rel="author" href="blog.erick-garcia.com">Blog Posts</a>
+		<a class="page-link" rel="author" href="/">Blog Posts</a>
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
             {%- if my_page.title -%}
