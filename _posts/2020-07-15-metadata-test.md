@@ -18,24 +18,14 @@ So imagine this is some recipe and this is where the magic happens:
     "1 egg",
     "3/4 cup of sugar"
   ],
-  "interactionStatistic": {
-    "@type": "InteractionCounter",
-    "interactionType": "http://schema.org/Comment",
-    "userInteractionCount": "140"
-  },
-  "name": "Mom's World Famous Banana Bread",
-  "nutrition": {
-    "@type": "NutritionInformation",
-    "calories": "240 calories",
-    "fatContent": "9 grams fat"
-  },
-  "prepTime": "PT15M",
-  "recipeInstructions": "Preheat the oven to 350 degrees. Mix in the ingredients in a bowl. Add the flour last. Pour the mixture into a loaf pan and bake for one hour.",
-  "recipeYield": "1 loaf",
-  "suitableForDiet": "http://schema.org/LowFatDiet"
 }
 </script>
 ```
+
+| ![image](/assets/img/image.png) | 
+|:--:| 
+| *This enables us to get SEO optimization and rich pins on supported websites* |
+
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
@@ -67,3 +57,4 @@ So imagine this is some recipe and this is where the magic happens:
   "suitableForDiet": "http://schema.org/LowFatDiet"
 }
 </script>
+
