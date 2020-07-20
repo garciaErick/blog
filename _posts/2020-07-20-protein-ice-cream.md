@@ -24,6 +24,11 @@ This recipe is made by [@Greg Doucette](https://www.gregdoucette.com) and since 
 ## Nutritional information
 * 360 calories (If you can finish it :P)
 
+
+| ![image](/assets/img/anabolicIceCream.jpg) | 
+|:--:| 
+| *Spoonful of Protein Icecream* |
+
 <a href="https://www.yummly.com" class="YUMMLY-YUM-BUTTON">Yum</a>
 <script src="https://www.yummly.com/js/widget.js?general"></script>
 <script type="application/ld+json">
