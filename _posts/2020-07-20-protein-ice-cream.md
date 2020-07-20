@@ -9,7 +9,7 @@ tags: recipes
 This recipe is made by [@Greg Doucette](https://www.gregdoucette.com) and since he has this information public in this [video](https://www.youtube.com/watch?v=q-m_6M6nUd8) so I took the liberty of listing the ingredients for my convenience and the general public. Consider buying his cookbook, there are lots of great substitutes and cooking ideas!
 
 <a href="https://www.yummly.com" class="YUMMLY-YUM-BUTTON">Yum</a>
-<script src="https://www.yummly.com/js/widget.js?general"></script>
+
 
 ## Ingredients
 * 1.5 scooops of protein
