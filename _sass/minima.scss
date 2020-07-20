@@ -53,5 +53,6 @@ $on-large:         $on-laptop !default;
 @import
   "minima/base",
   "minima/layout",
-  "minima/syntax-highlighting"
 ;
+// Removed this syntax highlighting since I am using monokai
+//  "minima/syntax-highlighting"
