@@ -45,5 +45,5 @@ kramdown:
     input: GFM
     syntax_highlighter: pygments
 
-highlighter: pygments
+highlighter: rouge
 markdown: kramdown
