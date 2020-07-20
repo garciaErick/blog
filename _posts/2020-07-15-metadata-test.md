@@ -1,7 +1,5 @@
 ## This is a test for metadata
-So imagine this is some recipe and this is where the magic happens:
-* Ingredient 1
-* Ingredient 2
+So imagine this is some recipe page and inside of it we have some @type: Recipe metadata, from the snippet which will enable us to get rich pins from supported websites such as [this one](https://www.pinterest.com.mx/pin/706924472751471915/)
 
 ```html
 <script type="application/ld+json">
@@ -24,7 +22,7 @@ So imagine this is some recipe and this is where the magic happens:
 
 | ![image](/assets/img/image.png) | 
 |:--:| 
-| *This enables us to get SEO optimization and rich pins on supported websites* |
+| *Rich text validator screenshot from Google* |
 
 <script type="application/ld+json">
 {
