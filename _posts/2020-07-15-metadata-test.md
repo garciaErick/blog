@@ -1,8 +1,13 @@
-# This is a test for metadata
+## This is a test for metadata
 So imagine this is some recipe and this is where the magic happens:
 * Ingredient 1
 * Ingredient 2
 
+```html
+<script type="application/ld+json">
+  const lol = 'something';
+</script>
+```
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
