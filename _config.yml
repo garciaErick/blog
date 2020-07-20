@@ -43,10 +43,7 @@ minima:
 # Build settings
 kramdown:
     input: GFM
-    syntax_highlighter: rouge
+    syntax_highlighter: pygments
 
-plugins:
- - jekyll-org
-
-highlighter: rouge
+highlighter: pygments
 markdown: kramdown
