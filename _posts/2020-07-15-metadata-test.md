@@ -1,5 +1,13 @@
-## This is a test for metadata
+---
+layout: post
+title: Metadata usability test
+# Author.
+author: Erick Garcia
+tags: SEO recipe metadata richtext pinterest
+---
+
 So imagine this is some recipe page and inside of it we have some @type: Recipe metadata, from the snippet which will enable us to get rich pins from supported websites such as [this one](https://www.pinterest.com.mx/pin/706924472751471915/)
+
 
 ```html
 <script type="application/ld+json">
